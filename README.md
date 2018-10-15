@@ -1,7 +1,7 @@
 # WOWDataAnalysis
 
 In the following project the dataset from https://data.world/helithumper/prices-of-world-of-warcrafttoken/workspace/file?filename=wowcointotal.csv 
-was used. It contained the price the monthly subscription measured at various days and times since 2015.
+was used. It contained the price of the monthly subscription measured at various days and times since 2015.
 
 For the specific dataset the following analysis was performed:
 1) Fit a model that predicts the price of the monthly subscription as a function of time.
